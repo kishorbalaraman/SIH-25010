@@ -164,25 +164,6 @@ Environmental: Promotes balanced fertilizer use, reducing soil degradation.
 
 Policy-level: Provides data to agri-departments for planning and subsidy targeting.
 
-Research and References
-
-NABARD Report 2022: 86% Indian farmers are small/marginal
-https://www.nabard.org
-
-ICRISAT Study: ICT-based advisory improves yield by 20–30%
-https://www.icrisat.org
-
-IMD Weather API Documentation
-https://mausam.imd.gov.in
-
-FAO Research on Digital Agri Solutions
-http://www.fao.org
-
-Sample datasets for crop and pest images from PlantVillage:
-https://plantvillage.psu.edu
-
-Would you like me to help build a prototype pitch deck, wireframes, or presentation slides based on this proposal?
-
 ## Research and References
 NABARD Report 2022: 86% Indian farmers are small/marginal
 https://www.nabard.org
